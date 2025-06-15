@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-##Project description
+## Project description
 The project involved the development of a web application designed for task management and time tracking. The application enables users to create tasks, assign them to specific users, monitor progress and generate time-based reports. Additionally, users can track how much they spend on individual tasks in real time. 
 The backend of the application was built using Next.js, react components to ensure a responsive and interactive experience.
 
